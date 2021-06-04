@@ -1,5 +1,4 @@
-## Hey there ! 
-## My name is Saswat Mahapatra <img src="https://github.com/itsretroboi/itsretroboi/blob/master/images/monophy.gif" width="500px">
+## Hey there ! I'm Saswat Mahapatra <img src="https://github.com/itsretroboi/itsretroboi/blob/master/images/monophy.gif" width="400px">
 
 
 Here are some ideas to get you started:
