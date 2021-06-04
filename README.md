@@ -1,5 +1,6 @@
-### Hey There ! My name is Saswat Mahapatra
-<img src="https://github.com/itsretroboi/itsretroboi/blob/master/images/monophy.gif" width="30px">
+### Hey there ! 
+### My name is Saswat Mahapatra
+<img src="https://github.com/itsretroboi/itsretroboi/blob/master/images/monophy.gif" width="250px">
 
 Here are some ideas to get you started:
 
