@@ -1,7 +1,7 @@
 ## Hey there 👋! I'm Saswat Mahapatra 
-<img src="https://github.com/itsretroboi/itsretroboi/blob/master/images/monophy.gif" width="400px" img align="right">
+<img src="https://github.com/itsretroboi/itsretroboi/blob/master/images/monophy.gif" width="450px" img align="right" >
 
-Hi there, I'm **Saswat Mahapatra**, a **Flutter Developer** and a **Cloud & Software Engineering student** 🚀 from India 🇮🇳 ! currently, I'm a Student working on various projets and trying to figure out stuff.
+Hi there, I'm **Saswat Mahapatra**, a **Flutter Developer** and a **Cloud & Software Engineering student** 🚀 from India :india: ! Currently, I'm a Student working on various projects and trying to build a user friendly future.
 
 Here are some ideas to get you started:
 
