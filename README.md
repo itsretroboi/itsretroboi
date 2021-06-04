@@ -1,7 +1,5 @@
-Hi There
-
-<!--
-**itsretroboi/itsretroboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey There ! My name is Saswat Mahapatra
+<img src="https://github.com/itsretroboi/itsretroboi/blob/master/images/monophy.gif" width="30px">
 
 Here are some ideas to get you started:
 
